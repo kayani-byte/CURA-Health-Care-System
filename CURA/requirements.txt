@@ -1,0 +1,10 @@
+streamlit
+streamlit-autorefresh
+opencv-python
+pillow
+pyttsx3
+google-generativeai
+python-dotenv
+sounddevice
+numpy
+requests
